@@ -30,6 +30,7 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
+```
 def dictionairy(): 
 # Declaring hash function      
 key_value ={}    
@@ -46,7 +47,7 @@ print ("Keys and Values sorted",
 # For mathematical way, change it to float 
 print(sorted(key_value.items(), key = 
 lambda kv:(kv[1], kv[0])))
-
+```
 ## Sample Output
 ![439311792-5d91e8d6-c238-48b2-90d5-9ed7f0cd8874](https://github.com/user-attachments/assets/9be42fc1-fcde-419a-a5f0-35b7227ef711)
 
